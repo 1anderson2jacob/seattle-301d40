@@ -12,7 +12,11 @@
     "dogs",
     "fish"
   ],
+<<<<<<< HEAD
   "author": "Jake Anderson",
+=======
+  "author": "Sam Hamm",
+>>>>>>> 9aafe8c0bd30df74a79a0dbffc3b4ed627f12792
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
